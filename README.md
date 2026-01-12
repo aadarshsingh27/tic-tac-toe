@@ -50,7 +50,7 @@ Welcome to the classic Tic Tac Toe game built using HTML, CSS, and JavaScript! T
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/aadarshsingh27/tic-tac-toe.git
 2. Navigate to the project directory:
    ```bash
    cd tic-tac-toe
